@@ -1,0 +1,49 @@
+{
+  "last_validation": "2026-06-08T23:10:16.138933",
+  "total_before": 0,
+  "total_after": 0,
+  "total_dead": 0,
+  "real_ip": "52.159.246.0",
+  "by_type": {
+    "http": {
+      "working": 0,
+      "avg_response_time": 0.0,
+      "anonymity": {
+        "transparent": 0,
+        "anonymous": 0,
+        "elite": 0,
+        "unknown": 0
+      }
+    },
+    "https": {
+      "working": 0,
+      "avg_response_time": 0.0,
+      "anonymity": {
+        "transparent": 0,
+        "anonymous": 0,
+        "elite": 0,
+        "unknown": 0
+      }
+    },
+    "socks4": {
+      "working": 0,
+      "avg_response_time": 0.0,
+      "anonymity": {
+        "transparent": 0,
+        "anonymous": 0,
+        "elite": 0,
+        "unknown": 0
+      }
+    },
+    "socks5": {
+      "working": 0,
+      "avg_response_time": 0.0,
+      "anonymity": {
+        "transparent": 0,
+        "anonymous": 0,
+        "elite": 0,
+        "unknown": 0
+      }
+    }
+  }
+}
