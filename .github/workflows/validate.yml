@@ -51,4 +51,5 @@ jobs:
           git config --local user.name "✅ Proxy Validator"
           git add -A
           git diff --staged --quiet || git commit -m "✅ Validate: $(date -u '+%Y-%m-%d %H:%M UTC') | HTTP:${{ steps.stats.outputs.http }} HTTPS:${{ steps.stats.outputs.https }} SOCKS4:${{ steps.stats.outputs.socks4 }} SOCKS5:${{ steps.stats.outputs.socks5 }}"
+          git pull --rebase origin main
           git push
