@@ -1,10 +1,10 @@
 {
-  "last_scrape": "2026-07-08T15:02:42.714342",
+  "last_scrape": "2026-07-08T16:44:12.915551",
   "total_proxies": {
-    "http": 5185,
-    "https": 5077,
-    "socks4": 3598,
-    "socks5": 3880
+    "http": 5869,
+    "https": 5823,
+    "socks4": 4271,
+    "socks5": 5993
   },
   "sources_used": [
     "ProxyScrape API",
