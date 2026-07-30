@@ -1,9 +1,9 @@
 {
-  "last_scrape": "2026-07-30T22:36:57.305532",
+  "last_scrape": "2026-07-30T23:36:07.355849",
   "total_proxies": {
-    "http": 5503,
-    "https": 5469,
-    "socks4": 3888,
+    "http": 5463,
+    "https": 5425,
+    "socks4": 3914,
     "socks5": 2570
   },
   "sources_used": [
