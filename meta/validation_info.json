@@ -1,49 +1,49 @@
 {
-  "last_validation": "2026-08-08T07:42:20.567645",
-  "validation_time_seconds": 303.7,
+  "last_validation": "2026-08-08T08:15:06.873162",
+  "validation_time_seconds": 295.9,
   "total_before": 8000,
-  "total_after": 224,
-  "total_dead": 7776,
-  "real_ip": "135.232.227.151",
+  "total_after": 225,
+  "total_dead": 7775,
+  "real_ip": "172.203.253.217",
   "by_type": {
     "http": {
-      "working": 112,
-      "avg_response_time": 2.629,
+      "working": 87,
+      "avg_response_time": 2.235,
       "anonymity": {
-        "transparent": 12,
-        "anonymous": 4,
-        "elite": 63,
-        "unknown": 33
+        "transparent": 7,
+        "anonymous": 3,
+        "elite": 47,
+        "unknown": 30
       }
     },
     "https": {
-      "working": 18,
-      "avg_response_time": 5.523,
+      "working": 11,
+      "avg_response_time": 5.276,
       "anonymity": {
         "transparent": 0,
         "anonymous": 0,
-        "elite": 8,
-        "unknown": 10
+        "elite": 3,
+        "unknown": 8
       }
     },
     "socks4": {
-      "working": 37,
-      "avg_response_time": 1.572,
+      "working": 12,
+      "avg_response_time": 2.076,
       "anonymity": {
         "transparent": 0,
         "anonymous": 0,
-        "elite": 31,
-        "unknown": 6
+        "elite": 12,
+        "unknown": 0
       }
     },
     "socks5": {
-      "working": 57,
-      "avg_response_time": 3.206,
+      "working": 115,
+      "avg_response_time": 2.42,
       "anonymity": {
         "transparent": 0,
         "anonymous": 0,
-        "elite": 39,
-        "unknown": 18
+        "elite": 84,
+        "unknown": 31
       }
     }
   }
